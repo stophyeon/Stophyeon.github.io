@@ -22,7 +22,7 @@
 
 - [MyMovie] - open API를 이용한 영화 겁색 등록 서비스입니다.
 - 서비스 개발과 데이터베이스를 맡았습니다.
-- 
+- [https://github.com/stophyeon/movies]
  
 
 
