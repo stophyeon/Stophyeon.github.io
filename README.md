@@ -22,14 +22,14 @@
 [블로그](https://stophyeon.tistory.com/)
 
 ## Project
-# MyMovie
+# [MyMovie](https://github.com/stophyeon/MyMovie)
 
 - [MyMovie] - open API를 이용한 영화 겁색 등록 서비스입니다.
 - 서비스 개발과 데이터베이스를 맡았습니다.
-- [프로젝트 깃허브](https://github.com/stophyeon/movies)
 
 
-# [GitHub](https://github.com/stophyeon)
+
+# [My GitHub](https://github.com/stophyeon)
 
 
 
