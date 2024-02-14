@@ -45,8 +45,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Java & Spring 기반의 서버 개발자 정지현입니다.</br>
-  제가 목표로 하는 개발자의 모습은 기본에 충실하게 개발을 하는 것을 중요하게 생각해 <mark>Test 코드의 작성을 습관화</mark> 하고</br>
+  Java & Spring 기반의 서버 개발자 정지현입니다.<br></br>
+  제가 목표로 하는 개발자의 모습은 기본에 충실하게 개발을 하는 것을 중요하게 생각해 <mark>Test 코드의 작성을 습관화</mark> 하고<br></br>
   어떤 기술을 적용할 땐 항상 고심하고 꼭 필요한가를 생각하고 <mark>팀원들과의 의견</mark>을 종합해서 개발을 하는 개발자입니다.
 
 content:
