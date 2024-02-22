@@ -79,14 +79,21 @@ content:
         title: 숭실대학교
         caption: 2019 - 2024
         sub_title: 전자정보공학 IT 융합 학과
-  - title: Certificate
+
+  - title: Projects
     layout: list
     content:
-      layout: left
-      title: 정보처리기사
+      - layout: top-middle
+        title: MyMovie
+        link: https://github.com/stophyeon/MyMovie
+        quote: >
+          2023.07.02 ~ 2023.08.23
+        description: | # this will include new lines to allow paragraphs
+          * TMDB Open API를 사용한 영화 검색 서비스
 
 
-      
+
+
 
 
 # Footer
