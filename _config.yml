@@ -87,10 +87,11 @@ content:
 
   - title: PerSonal Projects
     layout: left
-    title:
-      links:
-        - label: MyMovie
-          url: https://github.com/stophyeon/MyMovie
+    content:
+      title:
+        links:
+          - label: MyMovie
+            url: https://github.com/stophyeon/MyMovie
     description: |
       - TMDB Open API를 사용한 영화 검색 서비스
       
@@ -99,7 +100,8 @@ content:
 
   - title: Team Projects
     layout: left
-    content: |
+    content:
+      title:
 
 
 # Footer
