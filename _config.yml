@@ -89,10 +89,8 @@ content:
     layout: list
     content:
       - layout: left
-
-        links:
-          - label: MyMovie
-            url: https://github.com/stophyeon/MyMovie
+        title: MyMovie
+        url: https://github.com/stophyeon/MyMovie
     description: |
       - TMDB Open API를 사용한 영화 검색 서비스
       
