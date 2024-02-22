@@ -82,13 +82,14 @@ content:
   - title: Certificate
     layout: list
     content:
-      - layout: left
-        title:
+      layout: left
+      title:
 
   - title: PerSonal Projects
-    layout: left
+    layout: list
     content:
-      title:
+      - layout: left
+
         links:
           - label: MyMovie
             url: https://github.com/stophyeon/MyMovie
