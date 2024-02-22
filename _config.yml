@@ -85,23 +85,8 @@ content:
       layout: left
       title: 정보처리기사
 
-  - title: PerSonal Projects
-    layout: list
-    content:
-      - layout: left
-        border: weak
-        title: MyMovie
-        link: https://github.com/stophyeon/MyMovie
-        description: |
-          - TMDB Open API를 사용한 영화 검색 서비스
-      
-      
-      
 
-  - title: Team Projects
-    layout: left
-    content:
-      title:
+      
 
 
 # Footer
