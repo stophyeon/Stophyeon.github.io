@@ -80,7 +80,7 @@ content:
         caption: 2019 - 2024
         sub_title: 전자정보공학 IT 융합 학과
 
-  - title: Projects
+  - title: Personal Projects
     layout: list
     content:
       - layout: top-middle
