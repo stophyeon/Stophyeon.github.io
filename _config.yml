@@ -83,14 +83,13 @@ content:
     layout: list
     content:
       layout: left
-      title:
+      title: 정보처리기사
 
   - title: PerSonal Projects
     layout: list
     content:
       - layout: left
         title: MyMovie
-
         description: |
           - TMDB Open API를 사용한 영화 검색 서비스
       
